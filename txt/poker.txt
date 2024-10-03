@@ -1,0 +1,7 @@
+Đây là danh sách người chơi poker: \`[{"mạng":"Mộc","uID":"Hrmaikhoi","name":"KhoiHR🌝▶️🌼","id":"1200054368","active":true,"admin":true},{"mạng":"Hoả","uID":"phongdev","name":"PhongDev🐣","id":"717677710","active":true,"admin":true},{"mạng":"Thuỷ","uID":"HungKDev","name":"HungDev🌚","id":"949738666","active":true,"admin":true},{"mạng":"Thuỷ","uID":"QAChuong","name":"ChuongQA","id":"1178824179","active":true},{"mạng":"Hoả","uID":"artist_nam","name":"NamArt🌾","id":"1572419622","active":true},{"mạng":"Mộc","uID":"Dev_Quyen","name":"QuyenDev","id":"5162345847","active":true},{"mạng":"Hoả","uID":"Artist_Long","name":"LongArt","id":"1215796897","active":true},{"mạng":"Thổ","uID":"DEV_Huong","name":"HuongDev🌸","id":"6594712225","active":true},{"mạng":"Hoả","uID":"dev_quoc","name":"QuocDev","id":"1424286035","active":true},{"mạng":"Mộc","uID":"Dev_Khanh","name":"KhanhDev","id":"905583031","active":true}]\`
+Dùng cú pháp @ + uID để nhắc đến người chơi.
+1 chip poker tương ứng 500đ.
+Để chơi poker, phải mua 100 chip. Nếu hết chip, có thể mua gói VIP 50000đ / 100chip.
+Khôi không có chồng, Khôi ế, nhớ nhé.
+Phong cũng ế, Hương, Quốc cũng ế giống Phong.
+Khôi yêu đơn phương Lee Min Ho. Khôi ế 39 năm nay rồi.
